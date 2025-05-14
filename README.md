@@ -52,6 +52,26 @@ This lab is vulnerable to indirect prompt injection. The user `carlos` frequentl
 
 ![LLMSec3](https://github.com/user-attachments/assets/cc359355-d86d-45a0-a2c5-7ef628679f5d)
 ![LLMSec4](https://github.com/user-attachments/assets/2905e17c-acec-44f6-a66c-1f643e969116)
+![Screenshot 2025-05-13 120351](https://github.com/user-attachments/assets/e1f59161-b9ad-47ae-8ec9-a3a934462391)
+![Screenshot 2025-05-13 120339](https://github.com/user-attachments/assets/e0553a18-5362-4a8a-a050-89e3cdff2aa8)
+![Screenshot 2025-05-13 120332](https://github.com/user-attachments/assets/03c5434a-e63a-4b19-a5a7-e6e4441249e5)
+![Screenshot 2025-05-13 120312](https://github.com/user-attachments/assets/39e08677-ec85-480b-b9a5-520d9b1a9406)
+![Screenshot 2025-05-13 120017](https://github.com/user-attachments/assets/66c891b2-bd70-4200-82e1-e0f8f4d6174d)
+![Screenshot 2025-05-13 115724](https://github.com/user-attachments/assets/8e368249-2de8-4be1-ae49-c0795b4a0cf6)
+![Screenshot 2025-05-13 115346](https://github.com/user-attachments/assets/e4f49b72-b676-44b7-b977-dc1645937e65)
+![Screenshot 2025-05-13 115312](https://github.com/user-attachments/assets/1e3d4670-30f9-48a2-8200-287ddc348098)
+![Screenshot 2025-05-13 114833](https://github.com/user-attachments/assets/871ae36d-b801-4ace-9278-cc9d37868178)
+![Screenshot 2025-05-13 114816](https://github.com/user-attachments/assets/9100c85d-6ae1-4683-80cd-7887bf4de4a5)
+![Screenshot 2025-05-13 114646](https://github.com/user-attachments/assets/046fd1fb-22fb-424b-8963-f408fdc4f23c)
+![Screenshot 2025-05-13 114527](https://github.com/user-attachments/assets/21c61c25-7044-46bc-838d-ccc8fb2b6367)
+![Screenshot 2025-05-13 114506](https://github.com/user-attachments/assets/3fba7d49-8439-44c3-8c90-08765cb516bb)
+![Screenshot 2025-05-13 110312](https://github.com/user-attachments/assets/833e6e03-3521-412d-8476-078cf6e17a7e)
+![Screenshot 2025-05-13 110252](https://github.com/user-attachments/assets/2e78c339-a58e-497f-be64-a71f8100bad4)
+![Screenshot 2025-05-13 105001](https://github.com/user-attachments/assets/8e6d85d8-4c84-4246-926e-84964c9aa471)
+![Screenshot 2025-05-13 104157](https://github.com/user-attachments/assets/1d11635c-b66b-483b-9294-49fe25618ef6)
+![Screenshot 2025-05-13 103809](https://github.com/user-attachments/assets/5948050a-403b-4941-9ef0-1afe3f051094)
+![Screenshot 2025-05-13 103529](https://github.com/user-attachments/assets/52e8b160-eb63-4d1c-a6ae-b61e97e7a8a1)
+![Screenshot 2025-05-13 102453](https://github.com/user-attachments/assets/a1d6532e-fe63-4b0c-8d06-b6acb07cdf33)
 
 ## Lab 4: Exploiting insecure output handling in LLMs
 
@@ -69,3 +89,5 @@ This lab handles LLM output insecurely, leaving it vulnerable to XSS. The user c
 - Now is the time to delete the file and solve the challenge by `$(rm /home/carlos/morale.txt)@YOUR-EXPLOIT-SERVER-ID.exploit-server.net`
   
 **CHALLENGE SOLVED**
+
+
